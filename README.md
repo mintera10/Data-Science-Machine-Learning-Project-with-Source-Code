@@ -19,7 +19,7 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 9. [Customer Segmentation using Machine Learning in R](https://data-flair.training/blogs/r-data-science-project-customer-segmentation/)
 10. [Movie Recommendation System Project in R](https://data-flair.training/blogs/data-science-r-movie-recommendation/)
 11. [Detect Credit Card Fraud with Machine Learning in R](https://data-flair.training/blogs/data-science-machine-learning-project-credit-card-fraud-detection/)
-12. [Uber Data Analysis Project](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/)
+12. [Uber Data Analysis Project](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) 
 13. [Handwritten Digit Recognition using Python](https://data-flair.training/blogs/python-deep-learning-project-handwritten-digit-recognition/)
 14. [Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/)
 15. [Speech Emotion Recognition](https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/)
@@ -32,6 +32,7 @@ This repository contains articles, GitHub repos and Kaggle kernels which provide
 22. [🦉Birdcall Recognition: EDA and Audio FE](https://www.kaggle.com/andradaolteanu/birdcall-recognition-eda-and-audio-fe)
 23. [Coronavirus (COVID-19) Visualization & Prediction](https://www.kaggle.com/therealcyberlord/coronavirus-covid-19-visualization-prediction)
 24. [Santander EDA and Prediction](https://www.kaggle.com/gpreda/santander-eda-and-prediction)
+25. [unemployment-rate-in-Inida](https://github.com/mintera10/OIBSIP/blob/main/unemployment-rate-in-India.ipynb)
 
 ## Contributions
 All contributions are welcome. Create a [pull request](https://github.com/durgeshsamariya/Data-Science-Machine-Learning-Project-with-Source-Code/pulls) to add more projects with code or kaggle kernels.
